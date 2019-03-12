@@ -3,6 +3,7 @@
 *.htaccess	eol=lf
 *.cgi		eol=lf
 *.sh		eol=lf
+*.js		eol=lf
 
 *.css		text
 *.htm		text
