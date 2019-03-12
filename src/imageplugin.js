@@ -20,6 +20,7 @@ export default class InsertImage extends Plugin {
 				// TODO:
 				// call function which returns a promise with the image url
 				// insert an image with the given url
+				console.log(this, this.imageRetriever);
 				if ( !this.imageRetriever ) {
 					return;
 				}
