@@ -69,7 +69,7 @@ ClassicEditor.defaultConfig = {
 			'link',
 			'bulletedList',
 			'numberedList',
-			'InsertImage',
+			'insertImage',
 			'imageUpload',
 			'blockQuote',
 			'insertTable',
