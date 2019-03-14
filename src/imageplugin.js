@@ -35,7 +35,6 @@ export default class InsertImage extends Plugin {
 	}
 
 	insertImage( editor, imageUrl ) {
-		console.log('inserting image');
 		editor.model.change( writer => {
 			const imageElement = writer.createElement( 'image', {
 				src: imageUrl
