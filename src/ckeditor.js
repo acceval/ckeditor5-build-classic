@@ -70,7 +70,6 @@ ClassicEditor.defaultConfig = {
 			'bulletedList',
 			'numberedList',
 			'insertImage',
-			'imageUpload',
 			'blockQuote',
 			'insertTable',
 			'mediaEmbed',
